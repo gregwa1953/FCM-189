@@ -1,0 +1,19 @@
+[Themes]
+available_themes = [
+    "notsodark",
+    "plastik",
+    "waldorf",
+    "page_wheat",
+    "clearlooks",
+    "forest-light",
+    "forest-dark",
+    "default",
+    "clam",
+    "classic",
+    "alt",
+]
+default_theme = "waldorf"
+current_theme = "clam"
+
+[Program_Info]
+version = "0.7.1"
